@@ -1,6 +1,6 @@
 # My-Repository!
 
-![capture123](capture.png)
+![capture](capture.png)
 
 ## FinTech Repository!
 
